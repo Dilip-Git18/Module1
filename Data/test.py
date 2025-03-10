@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect('ds.db')
+conn = sqlite3.connect('dehradun.db')
 cursor = conn.cursor()
 
 # Retrieve all data from the 'distances' table
