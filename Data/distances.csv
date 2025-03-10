@@ -1,0 +1,12 @@
+start_node,end_node,distance
+A,B,10.0
+A,C,20.0
+A,D,30.0
+B,C,5.0
+B,D,15.0
+C,D,10.0
+C,E,25.0
+D,E,35.0
+E,F,5.0
+D,F,20.0
+A,F,100
